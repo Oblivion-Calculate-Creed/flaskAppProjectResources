@@ -70,8 +70,6 @@ The Risk Assessment file for this project can be found: https://github.com/Scott
 A screenshot can also be found on: https://github.com/Scottynic112/flaskAppProjectResources
 
 ## Testing
-For the testing I used three variants: JUnit, SpringBoot and Mockito. Using these methods tested: Application, Unit and Integration. In total I ran 10 tests, all returning successful with 92.4% coverage. 
-Unit tests run each accessible function in isolation. This means that logic checks can take place to highlight any additions to the code as it would then cause an error. Mockito replicates results for functions that require external data. Whereas Integration tests are tests run on an isolated and pre-determined database (version of) and allows all requests to the database can be tested. 
 
 I have taken screenshots to show my coverage results and attached them onto: https://github.com/Scottynic112/flaskAppProjectResources
 
