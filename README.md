@@ -1,4 +1,4 @@
-# Cloud Native - Fundamental Project Specification README
+# Cloud Native - Practical Project Specification README
 
 The purpose of this README is to outline the Practical Project specification that I will be working on during training.
 It contains a complete set of the expectations and requirements for the project and well as documented progress and a final result.
