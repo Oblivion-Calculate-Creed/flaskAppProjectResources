@@ -75,9 +75,14 @@ I have taken screenshots to show my coverage results and attached them onto: htt
 
 ## Known Issues
 
+The tests are now showing as an error 'Bind Port 5000' after running through once. This was an error I came across too late to come up with the solution and after some research it was a bigger problem than fixing my test script. In the future I think it would be beneficial to test on a seperate vm.
+
+I am experiencing an internal error when putting my reverse proxy into the URL. During my attempt to fix this I ran out of docker pulls unless I upgraded my acccount. 
 
 ## Future Improvements
 
+In the future I think it would be beneficial to test on a seperate vm.
+I would also like to have a more neat presentation of my code.
 
 ## Mentions
 I would like to make special mentions to my course leader: Luke
