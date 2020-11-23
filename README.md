@@ -24,7 +24,7 @@ All of my extra resources can be found in: https://github.com/Scottynic112/flask
  - Risk Assessment Screenshots
  - Risk Assessment File
  - Jira Board Screenshots
- - Screenshots of Project,
+ - Screenshots of Project
 
 ## Brief
 The project will involve concepts from all core training modules; more specifically, this must:
@@ -85,7 +85,7 @@ In the future I think it would be beneficial to test on a seperate vm.
 I would also like to have a more neat presentation of my code.
 
 ## Mentions
-I would like to make special mentions to my course leader: Luke
+I would like to make special mentions to my course leader: Luke Benson
 
 ## Authors
 Scott Nicolson
